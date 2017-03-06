@@ -1,0 +1,12 @@
+C:\Users\Admin\Source\Repos\PTMID2017_Zhanel_Turlybayeva\PTMID2017_Zhanel_Turlybayeva\bin\Debug\PTMID2017_Zhanel_Turlybayeva.exe.config
+C:\Users\Admin\Source\Repos\PTMID2017_Zhanel_Turlybayeva\PTMID2017_Zhanel_Turlybayeva\bin\Debug\PTMID2017_Zhanel_Turlybayeva.exe
+C:\Users\Admin\Source\Repos\PTMID2017_Zhanel_Turlybayeva\PTMID2017_Zhanel_Turlybayeva\bin\Debug\PTMID2017_Zhanel_Turlybayeva.pdb
+C:\Users\Admin\Source\Repos\PTMID2017_Zhanel_Turlybayeva\PTMID2017_Zhanel_Turlybayeva\obj\Debug\PTMID2017_Zhanel_Turlybayeva.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\PTMID2017_Zhanel_Turlybayeva\PTMID2017_Zhanel_Turlybayeva\obj\Debug\PTMID2017_Zhanel_Turlybayeva.exe
+C:\Users\Admin\Source\Repos\PTMID2017_Zhanel_Turlybayeva\PTMID2017_Zhanel_Turlybayeva\obj\Debug\PTMID2017_Zhanel_Turlybayeva.pdb
+C:\Users\Admin\Source\Repos\Task 1\PTMID2017_Zhanel_Turlybayeva\bin\Debug\PTMID2017_Zhanel_Turlybayeva.exe.config
+C:\Users\Admin\Source\Repos\Task 1\PTMID2017_Zhanel_Turlybayeva\bin\Debug\PTMID2017_Zhanel_Turlybayeva.exe
+C:\Users\Admin\Source\Repos\Task 1\PTMID2017_Zhanel_Turlybayeva\bin\Debug\PTMID2017_Zhanel_Turlybayeva.pdb
+C:\Users\Admin\Source\Repos\Task 1\PTMID2017_Zhanel_Turlybayeva\obj\Debug\PTMID2017_Zhanel_Turlybayeva.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\Task 1\PTMID2017_Zhanel_Turlybayeva\obj\Debug\PTMID2017_Zhanel_Turlybayeva.exe
+C:\Users\Admin\Source\Repos\Task 1\PTMID2017_Zhanel_Turlybayeva\obj\Debug\PTMID2017_Zhanel_Turlybayeva.pdb
