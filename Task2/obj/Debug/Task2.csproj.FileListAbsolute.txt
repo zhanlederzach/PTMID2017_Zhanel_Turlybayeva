@@ -1,0 +1,9 @@
+C:\Users\Admin\Source\Repos\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Admin\Source\Repos\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Admin\Source\Repos\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Admin\Source\Repos\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Admin\Source\Repos\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\Admin\Source\Repos\PTMID2017_Zhanel_Turlybayeva3\Task2\bin\Debug\Task2.exe.config
+C:\Users\Admin\Source\Repos\PTMID2017_Zhanel_Turlybayeva3\Task2\obj\Debug\Task2.exe
+C:\Users\Admin\Source\Repos\PTMID2017_Zhanel_Turlybayeva3\Task2\obj\Debug\Task2.pdb
